@@ -33,6 +33,8 @@ Sviluppatore Web Full-Stack in formazione presso Boolean. Sto costruendo le mie 
     * **Backend**: Implementazione della logica di notifica dinamica (email transazionali) integrando **Nodemailer** e **Handlebars** per la creazione di template dinamici.
 * **Architettura**: [🔗 Frontend Repo](https://github.com/francesco-cassese/reSea-Frontend) | [🔗 Backend Repo](https://github.com/francesco-cassese/reSea-Express)
 
+---
+
 ## 📫 Contatti 
 
 - 📧 Email: [Scrivimi qui](mailto:francescocassese9@gmail.com)
