@@ -1,7 +1,7 @@
 # Ciao, sono Francesco ! 👋
 
 ### Full-Stack Web Developer in formazione
-Sviluppatore Web Full-Stack in formazione presso Boolean. Sto costruendo le mie basi tecniche affrontando sfide quotidiane tra frontend e backend. Sono appassionato di problem-solving e focalizzato sulla scrittura di codice pulito e manutenibile, trasformando le lezioni teoriche in applicazioni web concrete.
+Sviluppatore Web Full-Stack in formazione presso Boolean. Sto costruendo le mie basi tecniche affrontando sfide quotidiane tra frontend e backend. Il mio approccio al lavoro è guidato dall'ordine e dalla precisione: amo costruire architetture pulite e mi dedico con tenacia a ogni riga di codice finché, dopo ogni sfida, non raggiungo la stabilità e la fluidità del software funzionante., trasformando le lezioni teoriche in applicazioni web concrete.
 
 ---
 
