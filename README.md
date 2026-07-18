@@ -37,7 +37,8 @@ Sviluppatore Web Full-Stack in formazione presso Boolean. Sto costruendo le mie 
 
 ## 📫 Contatti 
 
-- 📧 Email: [Scrivimi qui](mailto:francescocassese9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescocassese9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-cassese)
 ---
 
 ## ⚡ Cosa mi appassiona e verso dove sto andando
