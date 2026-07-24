@@ -79,9 +79,6 @@
 
 ## ⚡ Cosa mi appassiona e verso dove sto andando
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=0077B5&width=450&height=50&lines=~%2Ffrancesco%24+pnpm+start+backend;%E2%9C%94+Server+running+on+port+3000;~%2Ffrancesco%24+mysql+-u+root+-p;%E2%9C%94+Connected+to+Database;~%2Ffrancesco%24+git+push+origin+main;%E2%9C%94+Code+deployed+successfully" alt="Terminal Animation" />
-</div>
 <br>
 
 <table>
