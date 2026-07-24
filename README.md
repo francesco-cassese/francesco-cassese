@@ -1,55 +1,115 @@
-# Ciao, sono Francesco ! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A4A4A&height=200&section=header&text=Francesco%20Cassese&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=FFFFFF" alt="Header Banner" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ciao,+sono+Francesco+!+%F0%9F%91%8B;Full-Stack+Web+Developer;Backend+Focused;AI+Explorer" alt="Typing SVG" />
+</div>
 
-### Full-Stack Web Developer in formazione
-Sviluppatore Web Full-Stack in formazione presso Boolean. Sto costruendo le mie basi tecniche affrontando sfide quotidiane tra frontend e backend. Il mio approccio al lavoro è guidato dall'ordine e dalla precisione: amo costruire architetture pulite e mi dedico con tenacia a ogni riga di codice finché, dopo ogni sfida, non raggiungo la stabilità e la fluidità del software funzionante., trasformando le lezioni teoriche in applicazioni web concrete.
+<h3 align="center">Sviluppatore Web Full-Stack in formazione presso Boolean</h3>
+
+<p align="center">
+  Sto costruendo le mie basi tecniche affrontando sfide quotidiane tra frontend e backend. Il mio approccio al lavoro è guidato dall'ordine e dalla precisione: amo costruire architetture pulite e mi dedico con tenacia a ogni riga di codice finché, dopo ogni sfida, non raggiungo la stabilità e la fluidità del software funzionante, trasformando le lezioni teoriche in applicazioni web concrete.
+</p>
 
 ---
 
 ## 🛠 Il mio Tech Stack
 
-| Area | Tecnologie |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React |
-| **Backend** | Node.js, Express |
-| **Database** | MySQL |
-| **Strumenti** | Git, GitHub, VS Code, Postman |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode,postman&perline=6" alt="Tech Stack" />
+  </a>
+</div>
+
+---
+
+## 🐍 GitHub Contributions Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francesco-cassese/francesco-cassese/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francesco-cassese/francesco-cassese/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/francesco-cassese/francesco-cassese/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 ## 🚀 Progetti in evidenza
 
 ### 🐷 Pork-edotto (E-commerce Full-Stack)
-* **Descrizione**: Piattaforma E-commerce Full-Stack sviluppata in team.
-* **Tecnologie**: Node.js, Express, MySQL, LangChain, Claude, Zod.
-* **Il mio contributo**:
-    * Progettazione e sviluppo dell'architettura **multi-agente AI** (usando LangChain e il modello Claude).
-    * Implementazione della validazione dei dati tramite **Zod** per garantire l'integrità dei dati scambiati tra AI e DB.
-    * Collaborazione nel team per la creazione delle **API REST** e la gestione della pipeline dei dati tra il backend e l'intelligenza artificiale.
-* **Architettura**: [🔗 Frontend Repo](https://github.com/francesco-cassese/webapp-react) | [🔗 Backend Repo](https://github.com/francesco-cassese/webapp-express)
+> Piattaforma E-commerce Full-Stack sviluppata in team con architettura multi-agente AI.
 
-### 🌊 reSea (E-commerce Full-Stack)
-* **Descrizione**: Piattaforma E-commerce Full-Stack sviluppata in team.
-* **Tecnologie**: React, Node.js, Express, Nodemailer, Handlebars.
-* **Il mio contributo**:
-    * **Frontend**: Sviluppo dell'interfaccia utente (UI) e gestione del flusso critico di **checkout** tramite React.
-    * **Backend**: Implementazione della logica di notifica dinamica (email transazionali) integrando **Nodemailer** e **Handlebars** per la creazione di template dinamici.
-* **Architettura**: [🔗 Frontend Repo](https://github.com/francesco-cassese/reSea-Frontend) | [🔗 Backend Repo](https://github.com/francesco-cassese/reSea-Express)
+<details>
+<summary><b>🔍 Scopri di più sul mio contributo</b></summary>
+<br>
+
+- 🧠 Progettazione e sviluppo dell'architettura **multi-agente AI** (usando LangChain e il modello Claude).
+- 🛡️ Implementazione della validazione dei dati tramite **Zod** per garantire l'integrità dei dati scambiati tra AI e DB.
+- 🔌 Collaborazione nel team per la creazione delle **API REST** e la gestione della pipeline dei dati tra il backend e l'intelligenza artificiale.
+
+**Tecnologie**: Node.js, Express, MySQL, LangChain, Claude, Zod  
+**Architettura**: [🔗 Frontend Repo](https://github.com/francesco-cassese/webapp-react) | [🔗 Backend Repo](https://github.com/francesco-cassese/webapp-express)
+</details>
 
 ---
 
-## 📫 Contatti 
+### 🌊 reSea (E-commerce Full-Stack)
+> Piattaforma E-commerce Full-Stack con notifiche dinamiche via email.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescocassese9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-cassese)
+<details>
+<summary><b>🔍 Scopri di più sul mio contributo</b></summary>
+<br>
+
+- 🎨 **Frontend**: Sviluppo dell'interfaccia utente (UI) e gestione del flusso critico di **checkout** tramite React.
+- ⚙️ **Backend**: Implementazione della logica di notifica dinamica (email transazionali) integrando **Nodemailer** e **Handlebars** per la creazione di template dinamici.
+
+**Tecnologie**: React, Node.js, Express, Nodemailer, Handlebars  
+**Architettura**: [🔗 Frontend Repo](https://github.com/francesco-cassese/reSea-Frontend) | [🔗 Backend Repo](https://github.com/francesco-cassese/reSea-Express)
+</details>
+
 ---
 
 ## ⚡ Cosa mi appassiona e verso dove sto andando
 
-*   🛠 **Backend Focused:** Il mio interesse principale si concentra sulla logica server-side, la progettazione di API REST solide e l'ottimizzazione del mondo dei dati (**MySQL**).
-  
-*   🤖 **Esploratore dell'AI:** Sono profondamente affascinato dalle potenzialità degli **LLM**. Non mi limito a usarli: sto esplorando come integrarli nell'architettura backend per creare sistemi intelligenti e automatizzati (come ho fatto con LangChain in *Pork-edotto*).
-  
-*   🌱 **In continua evoluzione:** Non mi considero un prodotto finito, ma un "cantiere aperto". Ogni giorno è un'occasione per imparare nuovi pattern, migliorare la sicurezza del mio codice o trovare modi più efficienti per gestire i flussi di dati.
-  
-*   🏍 **Traiettorie e Codice:** Quando non sono davanti al PC a ottimizzare query o testare nuove architetture, mi trovi in sella alla mia moto. La guida mi insegna la stessa concentrazione e attenzione al dettaglio che applico ogni giorno nello sviluppo software.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛠 Backend Focused</h3>
+      <p>Il mio interesse principale si concentra sulla logica server-side, la progettazione di API REST solide e l'ottimizzazione del mondo dei dati (<strong>MySQL</strong>).</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 Esploratore dell'AI</h3>
+      <p>Affascinato dagli <strong>LLM</strong>. Li integro nell'architettura backend per creare sistemi intelligenti e automatizzati (es. LangChain in <i>Pork-edotto</i>).</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌱 In continua evoluzione</h3>
+      <p>Un "cantiere aperto". Ogni giorno imparo nuovi pattern, miglioro la sicurezza del mio codice e gestisco i flussi di dati in modo più efficiente.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏍 Traiettorie e Codice</h3>
+      <p>Quando non ottimizzo query o testo architetture, sono in sella alla mia moto. La guida mi insegna la stessa concentrazione che applico nel software.</p>
+    </td>
+  </tr>
+</table>
 
 ---
-*Ultimo aggiornamento: 2026-07-13*
+
+## 📫 Contattami
+
+<div align="center">
+  <a href="mailto:francescocassese9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/francesco-cassese">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=francesco-cassese.francesco-cassese" alt="Visitor Badge" />
+  <br /><br />
+  <i>Ultimo aggiornamento: 2026-07-24</i>
+</p>
+
