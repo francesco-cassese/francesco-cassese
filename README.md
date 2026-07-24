@@ -73,23 +73,23 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <h3>🛠 Backend Focused</h3>
       <p>Il mio interesse principale si concentra sulla logica server-side, la progettazione di API REST solide e l'ottimizzazione del mondo dei dati (<strong>MySQL</strong>).</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <h3>🤖 Esploratore dell'AI</h3>
-      <p>Affascinato dagli <strong>LLM</strong>. Li integro nell'architettura backend per creare sistemi intelligenti e automatizzati (es. LangChain in <i>Pork-edotto</i>).</p>
+      <p>Sono profondamente affascinato dalle potenzialità degli <strong>LLM</strong>. Non mi limito a usarli: sto esplorando come integrarli nell'architettura backend per creare sistemi intelligenti e automatizzati (come ho fatto con LangChain in <i>Pork-edotto</i>).</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <h3>🌱 In continua evoluzione</h3>
-      <p>Un "cantiere aperto". Ogni giorno imparo nuovi pattern, miglioro la sicurezza del mio codice e gestisco i flussi di dati in modo più efficiente.</p>
+      <p>Non mi considero un prodotto finito, ma un "cantiere aperto". Ogni giorno è un'occasione per imparare nuovi pattern, migliorare la sicurezza del mio codice o trovare modi più efficienti per gestire i flussi di dati.</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <h3>🏍 Traiettorie e Codice</h3>
-      <p>Quando non ottimizzo query o testo architetture, sono in sella alla mia moto. La guida mi insegna la stessa concentrazione che applico nel software.</p>
+      <p>Quando non sono davanti al PC a ottimizzare query o testare nuove architetture, mi trovi in sella alla mia moto. La guida mi insegna la stessa concentrazione e attenzione al dettaglio che applico ogni giorno nello sviluppo software.</p>
     </td>
   </tr>
 </table>
@@ -112,4 +112,5 @@
   <br /><br />
   <i>Ultimo aggiornamento: 2026-07-24</i>
 </p>
+
 
