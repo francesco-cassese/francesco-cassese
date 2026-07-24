@@ -10,9 +10,7 @@
   Sto costruendo le mie basi tecniche affrontando sfide quotidiane tra frontend e backend. Il mio approccio al lavoro è guidato dall'ordine e dalla precisione: amo costruire architetture pulite e mi dedico con tenacia a ogni riga di codice finché, dopo ogni sfida, non raggiungo la stabilità e la fluidità del software funzionante, trasformando le lezioni teoriche in applicazioni web concrete.
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=30&section=footer" />
-</div>
+---
 
 ## 🛠 Il mio Tech Stack
 
@@ -22,9 +20,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A4A4A&height=30&section=footer" />
-</div>
+---
 
 ## 🐍 GitHub Contributions Snake
 
@@ -36,9 +32,7 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=30&section=footer" />
-</div>
+---
 
 ## 🚀 Progetti in evidenza
 
@@ -73,12 +67,13 @@
 **Architettura**: [🔗 Frontend Repo](https://github.com/francesco-cassese/reSea-Frontend) | [🔗 Backend Repo](https://github.com/francesco-cassese/reSea-Express)
 </details>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A4A4A&height=30&section=footer" />
-</div>
+---
 
 ## ⚡ Cosa mi appassiona e verso dove sto andando
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=0077B5&width=450&height=50&lines=~%2Ffrancesco%24+npm+start+backend;%E2%9C%94+Server+running+on+port+3000;~%2Ffrancesco%24+mysql+-u+root+-p;%E2%9C%94+Connected+to+Database;~%2Ffrancesco%24+git+push+origin+main;%E2%9C%94+Code+deployed+successfully" alt="Terminal Animation" />
+</div>
 <br>
 
 <table>
@@ -104,19 +99,15 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=30&section=footer" />
-</div>
+---
 
-## 🏙 La mia "Città" dei Commit (3D Contributions)
+## 🏙 La mia "Città" dei Commit
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contributions" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A4A4A&height=30&section=footer" />
-</div>
+---
 
 ## 📫 Contattami
 
