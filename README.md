@@ -101,7 +101,7 @@
 ## 🏙 La mia "Città" dei Commit
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contributions" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" />
 </div>
 
 ---
