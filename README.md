@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4A4A4A&height=200&section=header&text=Francesco%20Cassese&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=FFFFFF" alt="Header Banner" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ciao,+sono+Francesco+!+%F0%9F%91%8B;Full-Stack+Web+Developer;Backend+Focused;AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ciao,+sono+Francesco+!+%F0%9F%91%8B;Full-Stack+Web+Developer;Backend+Focused;PHP+%26+Laravel+Enthusiast;AI+Explorer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Sviluppatore Web Full-Stack in formazione presso Boolean</h3>
 
 <p align="center">
-  Sto costruendo le mie basi tecniche affrontando sfide quotidiane tra frontend e backend. Il mio approccio al lavoro è guidato dall'ordine e dalla precisione: amo costruire architetture pulite e mi dedico con tenacia a ogni riga di codice finché, dopo ogni sfida, non raggiungo la stabilità e la fluidità del software funzionante, trasformando le lezioni teoriche in applicazioni web concrete.
+  Sto costruendo le mie basi tecniche affrontando sfide quotidiane tra frontend e backend. Il mio approccio al lavoro è guidato dall'ordine e dalla precisione: amo costruire architetture pulite e mi dedico con tenacia a ogni riga di codice finché, dopo ogni sfida, non raggiungo la stabilità e la fluidità del software funzionante, trasformando le lezioni teoriche in applicazioni web concrete. Attualmente sto approfondendo <strong>PHP</strong> e <strong>Laravel</strong> per ampliare le mie competenze backend.
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode,postman&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,laravel,mysql,git,github,vscode,postman&perline=6" alt="Tech Stack" />
   </a>
 </div>
 
@@ -77,7 +77,7 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🛠 Backend Focused</h3>
-      <p>Il mio interesse principale si concentra sulla logica server-side, la progettazione di API REST solide e l'ottimizzazione del mondo dei dati (<strong>MySQL</strong>).</p>
+      <p>Il mio interesse principale si concentra sulla logica server-side, la progettazione di API REST solide e l'ottimizzazione del mondo dei dati (<strong>MySQL</strong>). Sto ampliando queste competenze specializzandomi in <strong>PHP</strong> e nel framework <strong>Laravel</strong>.</p>
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🤖 Esploratore dell'AI</h3>
@@ -98,7 +98,7 @@
 
 ---
 
-## 🏙 La mia "Città" dei Commit
+## 📊 Contribution Skyline
 
 <div align="center">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" />
@@ -120,5 +120,5 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=francesco-cassese.francesco-cassese" alt="Visitor Badge" />
   <br /><br />
-  <i>Ultimo aggiornamento: 2026-07-24</i>
+  <i>Ultimo aggiornamento: 2026-08-03</i>
 </p>
