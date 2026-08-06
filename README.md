@@ -3,9 +3,6 @@
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Ciao,+sono+Francesco+!+%F0%9F%91%8B;Full-Stack+Web+Developer;Backend+Focused;PHP+%26+Laravel+Enthusiast;AI+Explorer" alt="Typing SVG" />
   <br /><br />
-  <a href="https://francesco-cassese.github.io/portfolio-personale/">
-    <img src="https://img.shields.io/badge/Portfolio-18100C?style=for-the-badge&logo=googlechrome&logoColor=E2A854" alt="Portfolio" />
-  </a>
 </div>
 
 <h3 align="center">Sviluppatore Web Full-Stack in formazione presso Boolean</h3>
@@ -113,9 +110,6 @@
 ## 📫 Contattami
 
 <div align="center">
-  <a href="https://francesco-cassese.github.io/portfolio-personale/">
-    <img src="https://img.shields.io/badge/Portfolio-18100C?style=for-the-badge&logo=googlechrome&logoColor=E2A854" alt="Portfolio" />
-  </a>
   <a href="mailto:francescocassese9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
