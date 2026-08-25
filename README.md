@@ -64,6 +64,23 @@
 
 <br>
 
+### 📚 Verified Notes Pipeline (Multi-Agent AI Personal Project)
+> Pipeline multi-agente che genera appunti tecnici ancorati alla documentazione ufficiale, non alla memoria di un LLM.
+
+<details>
+<summary><b>🔍 Scopri di più sul mio contributo</b></summary>
+<br>
+
+- 🧠 Progettazione di un'architettura a **5 agenti specializzati** (Generator, Validator, Reviewer, Archivist, Writer) coordinati da un orchestratore con retry loop basato su feedback.
+- 🛡️ Implementazione di protezioni di sicurezza mirate: path traversal, SSRF (con controllo DNS-rebinding-safe), validazione di appartenenza delle fonti, rate limiting.
+- ⚙️ Avanzamento della pipeline in tempo reale via Server-Sent Events e CI (test, lint, build) su ogni push.
+
+**Tecnologie**: Node.js, Express, LangChain, Claude, Zod, Brave Search API, React, Vite  
+**Repo**: [🔗 verified-notes-pipeline](https://github.com/francesco-cassese/verified-notes-pipeline)
+</details>
+
+<br>
+
 ### 🐷 Pork-edotto (E-commerce Full-Stack)
 > Piattaforma E-commerce Full-Stack sviluppata in team con architettura multi-agente AI.
 
@@ -152,4 +169,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=francesco-cassese.francesco-cassese" alt="Visitor Badge" />
   <br /><br />
   <i>Ultimo aggiornamento: 2026-08-25</i>
+
 </p>
