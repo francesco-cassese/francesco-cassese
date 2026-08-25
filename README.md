@@ -47,6 +47,23 @@
 
 ## 🚀 Progetti in evidenza
 
+### 🏍️ MX Track & Bike Manager (Full-Stack Personal Project)
+> App per la gestione di moto da cross/enduro, sessioni in pista e manutenzioni programmate.
+
+<details>
+<summary><b>🔍 Scopri di più sul mio contributo</b></summary>
+<br>
+
+- 🔧 **Backend**: API REST con Express 5 e MySQL, autenticazione JWT, alert automatici di manutenzione calcolati sulle ore di utilizzo.
+- 🎨 **Frontend**: React 19 + Vite, dashboard moto con storico ore, gestione completa di moto/sessioni/manutenzioni, tema dark motocross.
+- 🗂️ Monorepo con pnpm workspaces e migrazioni SQL incrementali.
+
+**Tecnologie**: Node.js, Express, MySQL, React, Vite, JWT, pnpm  
+**Repo**: [🔗 mx_track_&_bike_manager](https://github.com/francesco-cassese/mx_track_-_bike_manager)
+</details>
+
+<br>
+
 ### 🐷 Pork-edotto (E-commerce Full-Stack)
 > Piattaforma E-commerce Full-Stack sviluppata in team con architettura multi-agente AI.
 
@@ -134,5 +151,5 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=francesco-cassese.francesco-cassese" alt="Visitor Badge" />
   <br /><br />
-  <i>Ultimo aggiornamento: 2026-08-03</i>
+  <i>Ultimo aggiornamento: 2026-08-25</i>
 </p>
