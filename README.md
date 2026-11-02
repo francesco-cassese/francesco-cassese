@@ -47,6 +47,25 @@
 
 ## 🚀 Progetti in evidenza
 
+### 🥖 Orarium (Full-Stack Personal Project)
+> Pianificazione di produzione e scorte per laboratori alimentari, costruita un livello alla volta per imparare come si ottimizza un'applicazione.
+
+<details>
+<summary><b>🔍 Scopri di più sul mio contributo</b></summary>
+<br>
+
+- 🔧 **Backend**: API JSON con Laravel 13 su PHP 8.4, MySQL e Redis in Docker, qualità del codice con Pest, Pint e Larastan di livello 10.
+- 🎨 **Frontend**: React 19 con Vite, ESLint, Prettier e Vitest.
+- ⚙️ **CI**: GitHub Actions su ogni pull request, con controlli richiesti prima del merge e azioni fissate a commit SHA.
+- 📊 **Prestazioni**: prima misura di partenza con k6. Una richiesta a Laravel impiega circa 100 ms, contro circa 2 ms di uno script PHP minimo: una baseline, prima di qualsiasi ottimizzazione.
+- 📘 Ogni decisione tecnica è documentata con le opzioni valutate e quelle scartate.
+
+**Tecnologie**: PHP 8.4, Laravel 13, React 19, Vite, MySQL, Redis, Docker, GitHub Actions, k6  
+**Repo**: [🔗 orarium](https://github.com/francesco-cassese/orarium)
+</details>
+
+<br>
+
 ### 🏍️ MX Track & Bike Manager (Full-Stack Personal Project)
 > App per la gestione di moto da cross/enduro, sessioni in pista e manutenzioni programmate.
 
