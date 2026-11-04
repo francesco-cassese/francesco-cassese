@@ -15,7 +15,7 @@
 </div>
 
 
-<h3 align="center">Sviluppatore Web Full-Stack in formazione presso Boolean</h3>
+<h3 align="center">Sviluppatore Web Full-Stack</h3>
 
 <p align="center">
   Sto costruendo le mie basi tecniche affrontando sfide quotidiane tra frontend e backend. Il mio approccio al lavoro è guidato dall'ordine e dalla precisione: amo costruire architetture pulite e mi dedico con tenacia a ogni riga di codice finché, dopo ogni sfida, non raggiungo la stabilità e la fluidità del software funzionante, trasformando le lezioni teoriche in applicazioni web concrete. Attualmente sto approfondendo <strong>PHP</strong> e <strong>Laravel</strong> per ampliare le mie competenze backend.
